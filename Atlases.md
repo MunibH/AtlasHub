@@ -38,5 +38,8 @@
 ## Conservation
 [Geospatial Conservation Atlas](https://geospatial.tnc.org/)
 
+## Food
+[Taste Atlas](https://www.tasteatlas.com)
+
 ## Other
 [Atlas of Medical Parasitology](http://www.atlas.or.kr/)
