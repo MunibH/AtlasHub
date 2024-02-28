@@ -37,13 +37,17 @@
 
 ## Conservation
 [Geospatial Conservation Atlas](https://geospatial.tnc.org/)
+
 [IUCN Red List](https://www.iucnredlist.org/search)
 
 ## Food
 [Taste Atlas](https://www.tasteatlas.com)
+
 [Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/)
-Food Access Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
+
+[Food Access Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
 
 ## Other
 [Atlas of Medical Parasitology](http://www.atlas.or.kr/)
+
 [Atlas of Rural and Small Town America](https://www.ers.usda.gov/data-products/atlas-of-rural-and-small-town-america/)
