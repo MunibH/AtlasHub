@@ -26,6 +26,10 @@
 
 [Atlas of the Pacific Northwest](https://pnwatlas.oregonstate.edu/#/)
 
+## Plants
+[Plants of the World](https://powo.science.kew.org/)
+[PlantAtlas](https://plantatlas.usf.edu/)
+
 ## Human
 [Human Cell Atlas](https://www.humancellatlas.org/)
 
