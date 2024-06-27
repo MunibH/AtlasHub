@@ -29,6 +29,7 @@
 ## Plants
 [Plants of the World](https://powo.science.kew.org/)
 [PlantAtlas](https://plantatlas.usf.edu/)
+[North American Plant Atlas](http://www.bonap.org/MapKey.html)
 
 ## Human
 [Human Cell Atlas](https://www.humancellatlas.org/)
