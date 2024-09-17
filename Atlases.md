@@ -26,6 +26,8 @@
 
 [Atlas of the Pacific Northwest](https://pnwatlas.oregonstate.edu/#/)
 
+[World atlas of GIS data sources](https://felt.com/map/World-atlas-of-GIS-data-sources-R5hQ5GiJRESU9AkJuO11DHD?loc=2.76,-48.02,3.62z&utm_source=twitter&utm_medium=social&utm_campaign=data_resources)
+
 ## Plants
 [Plants of the World](https://powo.science.kew.org/)
 [PlantAtlas](https://plantatlas.usf.edu/)
