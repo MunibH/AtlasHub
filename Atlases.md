@@ -34,6 +34,9 @@
 ## Human
 [Human Cell Atlas](https://www.humancellatlas.org/)
 
+## Invertebrates
+[Firefly Atlas](https://www.fireflyatlas.org/map)
+
 ## Anatomy
 [vet-Anatomy](https://www.imaios.com/en/vet-anatomy)
 
